@@ -1,7 +1,6 @@
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import smtplib
-from email import encoders
 
 def sendmail(login, senha, corpo:str, sender):
     
