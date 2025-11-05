@@ -180,3 +180,7 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 segredos.py
+filtrado.txt
+pdfteste.pdf
+tabela.csv
+teste.txt
